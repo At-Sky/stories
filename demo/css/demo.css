@@ -1,0 +1,9 @@
+.header-menu{
+    flex: 1;
+    justify-content: flex-end;
+  }
+  
+  .header-menu li{
+    height: 15px;
+    margin: 0px 3px;
+  }
